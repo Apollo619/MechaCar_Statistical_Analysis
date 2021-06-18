@@ -35,10 +35,10 @@ A more detailed evaluation, ***”lot_summary”***, of the individual lots (see
 ## T-Tests on Suspension Coils
 Using **t-tests** to interpret the **p-value** to help us determine how the PSI as a whole and as individuals manufacturing lots compare to the mean PSI of the population.
 
-- In the image of the upper left quadrant we can see that the overall PSI from all manufacturing lots p-value is larger than our significance level of 0.05 which means we reject our null hypothesis that the PSI are not statistically different than the PSI population.
-- In the image of the upper right quadrant we can see the p-value for PSI from **Lot 1** compared to the PSI population is smaller than the significance level of 0.05 and there for we can accept the null hypothesis that **Lot1** is statistically different than the PSI population.
-- In the image of the bottom left quadrant reveals the p-value for PSI from **Lot 2** has the same outcome of being smaller than the significance level of 0.05 and there for we can also accept the null hypothesis. 
-- For the last image in the bottom right quadrant the p-value for PSI from **Lot 3** is larger than the significance level of 0.05 so there for we can reject the null hypothesis.
+- In the first image we can see that the overall PSI from all manufacturing lots p-value is larger than our significance level of 0.05 which means we reject our null hypothesis that the PSI are not statistically different than the PSI population.
+- In the second image we can see the p-value for PSI from **Lot 1** compared to the PSI population is smaller than the significance level of 0.05 and there for we can accept the null hypothesis that **Lot1** is statistically different than the PSI population.
+- The third image reveals the p-value for PSI from **Lot 2** has the same outcome of being smaller than the significance level of 0.05 and there for we can also accept the null hypothesis. 
+- In the last image the p-value for PSI from **Lot 3** is larger than the significance level of 0.05 so there for we can reject the null hypothesis.
 
 ![]( https://github.com/Apollo619/MechaCar_Statistical_Analysis/blob/main/resources/t.test%20all%20lots.PNG)![]( https://github.com/Apollo619/MechaCar_Statistical_Analysis/blob/main/resources/t.test%20lot1.PNG)
 ![]( https://github.com/Apollo619/MechaCar_Statistical_Analysis/blob/main/resources/t.test%20lot2.PNG)![]( https://github.com/Apollo619/MechaCar_Statistical_Analysis/blob/main/resources/t.test%20lot3.PNG)
